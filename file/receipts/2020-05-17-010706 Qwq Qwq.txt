@@ -1,0 +1,17 @@
+User: Qwq Qwq
+User id: QQ0001
+Date: 2020-05-17-01:07:06
+Soup: Tonkotsu
+Noodle: Medium
+Nori: Yes
+Chashu: Yes
+BoiledEgg: Yes
+Spiciness: 0(No)
+Extra Nori: No
+Extra BoiledEgg:No
+BambooShoot: No
+Extra Chashu: No
+Total Price: 9.99
+If Free: No
+Pay Option: cash
+Packet: Eat-in

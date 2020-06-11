@@ -1,0 +1,17 @@
+User: Temporary Customer
+User id: XX0000
+Date: 2020-05-21-17:59:50
+Soup: Shoyu
+Noodle: Medium
+Nori: No
+Chashu: No
+BoiledEgg: No
+Spiciness: 1
+Extra Nori: No
+Extra BoiledEgg:No
+BambooShoot: No
+Extra Chashu: No
+Total Price: 5.00
+If Free: No
+Pay Option: cash
+Packet: Eat-in

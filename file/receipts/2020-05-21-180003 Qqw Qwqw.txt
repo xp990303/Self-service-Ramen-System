@@ -1,0 +1,17 @@
+User: Qqw Qwqw
+User id: QQ0002
+Date: 2020-05-21-18:00:03
+Soup: Shoyu
+Noodle: Medium
+Nori: No
+Chashu: Yes
+BoiledEgg: No
+Spiciness: 1
+Extra Nori: No
+Extra BoiledEgg:No
+BambooShoot: No
+Extra Chashu: No
+Total Price: 5.00
+If Free: No
+Pay Option: cash
+Packet: Eat-in
